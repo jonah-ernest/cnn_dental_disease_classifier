@@ -1,6 +1,6 @@
 # CNN-Based Dental Disease Classification
 
-This repository contains a deep learning project completed for APS360 (Applied Fundamentals of Deep Learning) at the University of Toronto.
+This repository contains a deep learning project completed for an Applied Fundamentals of Deep Learning course at the University of Toronto in Spring 2025.
 
 The goal of the project was to classify common oral diseases from real-world dental images using convolutional neural networks (CNNs). The system is intended as an assistive screening tool that could help improve access to preliminary dental assessments, particularly for underprivileged populations.
 
